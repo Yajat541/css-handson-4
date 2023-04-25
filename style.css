@@ -4,7 +4,7 @@
 }
         /* first box css */
 header{
-    width:1812px;
+    width:100vw;
     height: 40px;
     background-image: linear-gradient(to right,red 4%,#27c727 30%,yellow 81%);
 }
